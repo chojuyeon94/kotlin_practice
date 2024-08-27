@@ -1,4 +1,0 @@
-package advanced
-
-class Collection {
-}
